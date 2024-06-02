@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main style="margin-left: 5%; margin-right: 5%; border: 2px solid black;">
+    <header style="text-align: center;">
+        <h1>Resume</h1>
+    </header>
+    <hr style="width: 100%; height: 5px; background-color: black;">
+    <img style="width: 150px; margin: 20px auto; display: block;" src="/image/WhatsApp Image 2024-04-08 at 06.28.20_4388c5d3.jpg" alt=""> 
+    <div style="text-align: center;">
+        <span style="text-decoration: solid;">Name : Nikhil P</span><br>
+        <span style="text-decoration: solid;">Address : MAMMALI HOUSE</span><br>
+        <span style="">IRITTY PO,</span><br>
+        <span style="">PAYANCHERRY VAYANASALA</span><br>
+        <span style="text-decoration: solid;">District : KANNUR</span><br>
+        <span style="text-decoration: solid;">Pin code : 670 703</span><br>
+        <span style="text-decoration: solid;">Mobile : 9562177358</span><br>
+        <span style="text-decoration: solid;">Email Id : nikhilppry2001@gmail.com</span><br>
+    </div>
+    <section>
+        <hr style="width: 100%; height: 5px; background-color: black;">
+        <h3 style="text-align: left;">CAREER OBJECTIVE</h3>
+        <p>To be associated with a reputed firm. Where I can see my knowledge and 
+            creative skills to the best and thereby giving full effort for the development of the
+            organization.</p>
+    </section>
+    <section>
+        <h3 style="text-align: left;">EDUCATIONAL QUALIFICATION</h3>
+        <table style="width: 100%;" border="1">
+            <tr>
+                <th>COURSE</th>
+                <th>SPECIALISATION</th>
+                <th>BOARD/UNIVERSITY</th>
+                <th>YEAR OF PASSING</th>
+            </tr>
+            <tr style="text-align: center;">
+                <td>S.S.L.C</td>
+                <td>Regular</td>
+                <td>Board of Public Examination Kerala</td>
+                <td>2017 </td>
+            </tr>
+            <tr style="text-align: center;">
+                <td>Plus Two</td>
+                <td>Computer Science </td>
+                <td>Board of Higher Secondary Examination, Kerala</td>
+                <td>2019</td>   
+            </tr>
+        </table>
+    </section>
+    <section>
+        <h3 style="text-align: left;">COMPUTER QUALIFICATION</h3> 
+        <table style="width: 100%;" border="1">
+            <tr>
+                <th>COURSE</th>
+                <th>INSTITUTION</th>
+                <th>YEAR</th>
+            </tr>
+            <tr style="text-align: center;">
+                <td>Fullstack Web Development</td>
+                <td>Entry</td>
+                <td>2024</td>    
+            </tr>
+        </table>
+    </section>
+    <section>
+        <h3 style="text-align: left;">STRENGTHS:</h3>
+        <ul style="text-align: left;">
+            <li>Confident & Determined</li>
+            <li>Perfection & Hard working</li>
+            <li>Ability to cope up with any situation</li>
+        </ul>
+    </section>
+    <section>
+        <h3 style="text-align: left;">INTERESTS:</h3>
+        <ul style="text-align: left;">
+            <li>Playing</li>
+            <li>Reading</li>
+            <li>Listening to music</li>
+        </ul>
+    </section>
+    <section>
+        <h3 style="text-align: left;">PERSONAL DETAILS</h3>
+        <div style="text-align: left;">
+            <span style="text-decoration: solid;">Father’s Name : UTHAMAN M</span><br>
+            <span style="text-decoration: solid;">Date of Birth : 15/06/2001</span><br>
+            <span style="text-decoration: solid;">Gender : Male</span><br>
+            <span style="text-decoration: solid;">Religion & Caste : Hindu & Thiyya</span><br>
+            <span style="text-decoration: solid;">Marital Status : Single</span><br>
+            <span style="text-decoration: solid;">Nationality : Indian</span><br>
+            <span style="text-decoration: solid;">Languages Known : English, Hindi & Malayalam</span><br>
+        </div>
+    </section>
+    <section>
+        <h3 style="text-align: left;">POSITIVE ATTRIBUTES</h3>
+        <ul style="text-align: left;">
+            <li>ADAPTABLE</li>
+            <li>ANALYTICAL</li>
+            <li>COLLABORATIVE</li>
+            <li>COMMUNICATIVE</li>
+            <li>CREATIVE</li>
+        </ul>
+    </section>
+    <footer>
+        <h3 style="text-align: left;">DECLARATION</h3>
+        <p>I hereby declare that the above mentioned data is true to the best of my 
+            knowledge and belief. I am sure that my potentials can come up in organization like 
+            yours. I can prove my worthiness to the organization if given a chance.</p>
+        <h3 style="text-align: right;">Nikhil P</h3>
+    </footer>
+    </main>
+</body>
+</html>
